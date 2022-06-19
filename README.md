@@ -1,5 +1,5 @@
 # A New Stackbit Project
-
+1
 Welcome to your new project created with Stackbit!
 
 Here are a few useful tips & links:
