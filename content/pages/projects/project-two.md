@@ -5,7 +5,9 @@ layout: ProjectLayout
 date: '2021-12-20'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
+  because I worked with an entire team :) but they definitely followed my lead
+  most of the time.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
@@ -15,6 +17,18 @@ media:
   url: /images/bg2.jpg
   altText: Project image
 ---
+
+&#x20;  &#x20;
+
+
+<sup>1</sup> American
+&#x20;Cancer Society. What Is Chronic Myeloid Leukemia?&#x20;
+https://www.cancer.org/cancer/&#x20;
+chronic-myeloid-leukemia/about/what-is-cml.html. Accessed May 1, 2020. <sup>2</sup> Cancer.net. Leukemia – Chronic Myeloid – CML: Phases. <https://www.cancer.net/cancer-types/leukemia-chronic-myeloid-cml/phases>. Accessed January 2021. <sup>3</sup> American Cancer Society. Key Statistics for Chronic Myeloid Leukemia. https://www.cancer.org/cancer/chronic-myeloid-leukemia/about/statistics.html. Accessed April 2020. Cancer.net. Leukemia - Chronic Myeloid - CML: Types of Treatment. <https://www.cancer.net/cancer-types/leukemia-chronic-myeloid-cml/types-treatment>. Accessed January 2021. <sup>4 </sup>SEER Cancer Stat Facts. National Cancer Institute. Bethesda, MD. Available at: <https://seer.cancer.gov/statfacts/html/cmyl.html> Accessed May 2021. . <sup>5</sup> SEER Cancer Stat Facts. National Cancer Institute. Bethesda, MD. Available at: <https://seer.cancer.gov/statfacts/html/cmyl.html> Accessed May 2021. 
+
+
+
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
 
