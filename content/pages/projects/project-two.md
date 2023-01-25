@@ -38,4 +38,4 @@ Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamu
 
 
 
-![](/images/about.jpg)
+<div style="float:right">![](/images/about.jpg)</div>
