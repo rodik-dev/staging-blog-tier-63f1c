@@ -17,7 +17,7 @@ media:
   url: /images/bg2.jpg
   altText: Project image
 ---
-&nbsp;<sup>1</sup>American Cancer Society. What Is Chronic Myeloid Leukemia?&#x20;
+<sup>1</sup>American Cancer Society. What Is Chronic Myeloid Leukemia?&#x20;
 https://www.cancer.org/cancer/&#x20;
 chronic-myeloid-leukemia/about/what-is-cml.html. Accessed May 1, 2020. <sup>2</sup> Cancer.net. Leukemia – Chronic Myeloid – CML: Phases. <https://www.cancer.net/cancer-types/leukemia-chronic-myeloid-cml/phases>. Accessed January 2021. <sup>3</sup> American Cancer Society. Key Statistics for Chronic Myeloid Leukemia. https://www.cancer.org/cancer/chronic-myeloid-leukemia/about/statistics.html. Accessed April 2020. Cancer.net. Leukemia - Chronic Myeloid - CML: Types of Treatment. <https://www.cancer.net/cancer-types/leukemia-chronic-myeloid-cml/types-treatment>. Accessed January 2021. <sup>4 </sup>SEER Cancer Stat Facts. National Cancer Institute. Bethesda, MD. Available at: <https://seer.cancer.gov/statfacts/html/cmyl.html> Accessed May 2021. . <sup>5</sup> SEER Cancer Stat Facts. National Cancer Institute. Bethesda, MD. Available at: <https://seer.cancer.gov/statfacts/html/cmyl.html> Accessed May 2021. 
 
