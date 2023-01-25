@@ -19,7 +19,7 @@ media:
 ---
 
 |fasdf|sfad|
-|---|---:|
+|:---:|---:|
 |sadf|fasd|
 
 <sup>1</sup>American Cancer Society. What Is Chronic Myeloid Leukemia?
